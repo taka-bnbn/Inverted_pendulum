@@ -37,6 +37,9 @@ ESP32 に書き込んだ．
 付けなどの作業も必要でないからである．
 今回秋月電子通商にも部品を見に行ったが，Amazon のほうが安かったので，
 Amazon で購入した．（図１）
+<div align="center">
+ <img width="200" src="https://github.com/taka-bnbn/Inverted_pendulum/issues/1#issue-2978982820" alt="Animation" />
+</div>
 図１：Amazon で購入
 2. 機体に ESP32 を接続する．
 ハードウエアはプラグラム上で出力されるピンと実際のピンを間違えない
@@ -53,6 +56,9 @@ HTML,CSS を書くのに時間はかからなかった．
 く不良品で，Bluetooth 通信をすることができなかった．
 幸いなことに Wi-Fi 通信の機能は使えたので，今回は Wi-Fi で通信すること
 にした．（図２）
+<div align="center">
+<img width="617" alt="Image" src="https://github.com/user-attachments/assets/c1bae3cb-ee56-484b-a455-e32edd549ab8" />
+</div>
 図２：通信の実験をしている様子
 4. 班員の要望に合わせて，無線通信や操作画面のボタンを増やすなどの調整を
 する．
