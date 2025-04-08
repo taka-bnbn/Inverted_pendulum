@@ -38,7 +38,7 @@ ESP32 に書き込んだ．
 今回秋月電子通商にも部品を見に行ったが，Amazon のほうが安かったので，
 Amazon で購入した．（図１）
 <div align="center">
- <img width="200" src="https://github.com/taka-bnbn/Inverted_pendulum/issues/1#issue-2978982820" alt="Animation" />
+![Image](https://github.com/user-attachments/assets/33004ef9-9843-4b7f-b124-ea30d52b6164)
 </div>
 図１：Amazon で購入
 2. 機体に ESP32 を接続する．
