@@ -38,7 +38,7 @@ ESP32 に書き込んだ．
 今回秋月電子通商にも部品を見に行ったが，Amazon のほうが安かったので，
 Amazon で購入した．（図１）
 <div align="center">
-![Image](https://github.com/user-attachments/assets/33004ef9-9843-4b7f-b124-ea30d52b6164)
+![Image](https://github.com/user-attachments/assets/b75404c7-fc51-4897-852d-9562a68b412a)
 </div>
 図１：Amazon で購入
 2. 機体に ESP32 を接続する．
