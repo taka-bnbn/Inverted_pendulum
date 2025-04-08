@@ -88,3 +88,8 @@ iOS を使っている人は Windows から操作するという方針に落ち�
 部品の選定時点で信頼できる出品者なのかなど調べることで，計画の大幅な遅
 れなどは回避できたと考える．そのため，多少値が張っても信頼できる部品を調
 達することが大切だと感じた．
+
+<div align="center">
+  <img width="400" src="https://github.com/user-attachments/assets/0bd74979-fbb4-4182-b925-87f85fea38cc" alt="Animation" />
+</div>
+
